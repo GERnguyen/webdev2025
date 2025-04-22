@@ -17,7 +17,7 @@ function Home() {
             </div>
             
             <div className="section">
-              <h2>Header</h2>
+              <h2>Tham quan Đền Hạ - Đền Trung</h2>
               <p className="text">text</p>
               <p className="para">para</p>
             </div>
@@ -53,7 +53,7 @@ function Home() {
           
           <div className="right-column">
             <div className="section">
-              <h2>Header</h2>
+              <h2>Dâng hương tại Đền Thượng</h2>
               <p className="text">text</p>
               <p className="paragraph">paragraph</p>
             </div>
@@ -77,6 +77,10 @@ function Home() {
             </div>
           </div>
         </div>
+      </div>
+      <div className="poetry">
+        <p>Dù ai đi ngược về xuôi <br />
+        Nhớ ngày Giỗ Tổ mùng 10 tháng 3</p>
       </div>
     </div>
   );
