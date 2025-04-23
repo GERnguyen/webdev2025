@@ -37,6 +37,10 @@
     align-items: center;
     margin-right: 20px;
   }
+
+  .stat-item span {
+    margin: 0 8px;
+  }
   
   .stat-icon {
     width: 20px;
